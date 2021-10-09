@@ -1,0 +1,203 @@
+/*Bouton*/
+
+.buttonInscrireAccueil {
+    background-color: #1b3149;
+    font-size: 22px;
+    border-radius: 18px;
+    cursor: pointer;
+    color: WHITE;
+    padding: 15px 25px;
+    margin-left: 20%;
+    margin-top: 20%;
+    border: none;
+    float: left;
+}
+
+.buttonConnectionAccueil {
+    background-color: #1b3149;
+    font-size: 22px;
+    border-radius: 18px;
+    cursor: pointer;
+    color: WHITE;
+    padding: 15px 25px;
+    margin-right: 20%;
+    margin-top: 20%;
+    border: none;
+    float: right;
+}
+
+.buttonInscrireConnection {
+    padding: 10px 25px;
+    border-width: 2px;
+    background-color: lightgrey;
+    color: rgb(89, 139, 214);
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonDeco {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    border-style: solid;
+    font-size: 20px;
+    width: 200px;
+    height: 100px;
+    border: 0;
+    float: right;
+    margin-right: 5%;
+}
+
+.buttonClassement {
+    background-color: #1A5276;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    border-style: solid;
+    font-size: 20px;
+    width: 200px;
+    height: 100px;
+    border: 0;
+    float: left;
+    margin-left: 5%;
+}
+
+.buttonGestQuestion {
+    background-color: #21618C;
+    color: white;
+    cursor: pointer;
+    border-radius: 20px;
+    border-style: solid;
+    font-size: 20px;
+    width: 200px;
+    height: 100px;
+    border: 0;
+    margin-left: 18%;
+    margin-right: 10%;
+}
+
+.DejaOrPasDeCompte_connexion {
+    padding: 10px 25px;
+    border-width: 2px;
+    background-color: rgb(105, 111, 114);
+    color: tomato;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    float: right;
+}
+
+.Retour {
+    padding: 10px 25px;
+    border-width: 2px;
+    background-color: rgb(105, 111, 114);
+    color: #673C32;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: bold;
+    float: left;
+}
+
+
+/*Form*/
+
+.taillefieldset {
+    border: solid 1px #0A243E;
+    padding: 15px;
+    width: 360px;
+    margin: auto;
+}
+
+legend {
+    text-align: center;
+}
+
+.inputSaisie {
+    border: 1px solid grey;
+    border-radius: 12px;
+    padding: 5px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.inputSaisie:hover {
+    background-color: beige;
+    color: black;
+}
+
+.inputBoutonAfficherCacher {
+    float: right;
+}
+
+.errorInput {
+    float: right;
+    color: red;
+}
+
+.formAddQuestion {
+    margin-left: 40%;
+    margin-right: 50%;
+}
+
+
+/*Table*/
+
+.quadrillageTable {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.quadrillageTableGestionQuestion {
+    padding: 10px;
+    border: 2px solid midnightblue;
+    border-collapse: collapse;
+}
+
+.quadrillageTableFinQuiz {
+    padding: 20px;
+    border: 2px solid darkolivegreen;
+    border-radius: 5%;
+    border-collapse: collapse;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+/*General*/
+
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.role {
+    font-size: 15px;
+    text-align: right;
+    margin-right: 2%;
+}
+
+.titresPage {
+    font-size: 35px;
+    text-align: center;
+}
+
+body {
+    background: #778899;
+}
+
+.chrono {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
