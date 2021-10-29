@@ -2,7 +2,7 @@
 
 ## Présentation
 Cette application permettra d'une part à l'administrateur du système d'effectuer la gestion de divers éléments et d'autre part aux joueurs de participer à des quiz et leur permettre aussi de gérer leur profil.
-
+Projet réalisé lors de ma 2<sup>éme</sup> année de bachelier informatique de gestion.
 
 ## Configuration
 Le script d'importation de la base de données "MySQL" se trouve dans le répertoire bd. 
